@@ -4,4 +4,4 @@ db/
 *.sqlite
 *.sql
 logging.txt
-launcher-*
+launcher_*
