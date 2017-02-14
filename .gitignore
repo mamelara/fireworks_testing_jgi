@@ -3,3 +3,5 @@ db/
 *.log
 *.sqlite
 *.sql
+logging.txt
+launcher-*
