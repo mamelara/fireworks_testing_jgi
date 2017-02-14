@@ -1,0 +1,5 @@
+####### Ignore data
+db/
+*.log
+*.sqlite
+*.sql
